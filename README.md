@@ -27,27 +27,9 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 
+![OS 8a](https://github.com/VPOOJAASREE/Windows-basic-commands-batchscript/assets/155145525/f7dce0e7-741a-4e05-b3da-af5f82acf908)
 
-## COMMAND AND OUTPUT
-
-Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-
-
-## COMMAND AND OUTPUT
-
-List the contents of the "MyLab" directory.
-
-
-## COMMAND AND OUTPUT
-
-Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-
-## COMMAND AND OUTPUT
-
-Move the "MyLab" directory to the "Documents" folder.
-
-
-## COMMAND AND OUTPUT
+![os 8b](https://github.com/VPOOJAASREE/Windows-basic-commands-batchscript/assets/155145525/fe321d99-ebb8-4534-a4d6-0900058e95db)
 
 
 ## Exercise 2: Advanced Batch Scripting
